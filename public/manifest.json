@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "file": "flyers/healing-connections-2026-10-29-c0ef0196b544.pdf",
+      "bytes": 359457,
+      "sha256": "c0ef0196b544ac571ad0f674d611c70e13015c9b62731092504f4eb9cd10f089",
+      "label": "Healing Connections \u2014 October 29, 2026"
+    },
+    {
+      "file": "flyers/minnesota-fall-events-2026-b3cfbd2a6277.pdf",
+      "bytes": 624057,
+      "sha256": "b3cfbd2a62777a8c044e15817e8717dd2fd48fd44e2df6cc94b8a5e9deeb85ab",
+      "label": "Minnesota Fall Events \u2014 2026"
+    },
+    {
+      "file": "flyers/level-one-training-2027-01-22-e8127ca5c8c7.pdf",
+      "bytes": 381348,
+      "sha256": "e8127ca5c8c70fec056bb242a74b6b3bceac208bbcb521a8293cf5d72a738922",
+      "label": "Level One Training \u2014 January 22, 2027"
+    }
+  ]
+}
